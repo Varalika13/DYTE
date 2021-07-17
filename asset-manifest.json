@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/DYTE/static/css/main.1eb0a928.chunk.css",
+    "main.js": "/DYTE/static/js/main.ddc8c1d6.chunk.js",
+    "main.js.map": "/DYTE/static/js/main.ddc8c1d6.chunk.js.map",
+    "runtime-main.js": "/DYTE/static/js/runtime-main.3c109c9c.js",
+    "runtime-main.js.map": "/DYTE/static/js/runtime-main.3c109c9c.js.map",
+    "static/css/2.3ceb25c6.chunk.css": "/DYTE/static/css/2.3ceb25c6.chunk.css",
+    "static/js/2.98298301.chunk.js": "/DYTE/static/js/2.98298301.chunk.js",
+    "static/js/2.98298301.chunk.js.map": "/DYTE/static/js/2.98298301.chunk.js.map",
+    "index.html": "/DYTE/index.html",
+    "static/css/2.3ceb25c6.chunk.css.map": "/DYTE/static/css/2.3ceb25c6.chunk.css.map",
+    "static/css/main.1eb0a928.chunk.css.map": "/DYTE/static/css/main.1eb0a928.chunk.css.map",
+    "static/js/2.98298301.chunk.js.LICENSE.txt": "/DYTE/static/js/2.98298301.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3c109c9c.js",
+    "static/css/2.3ceb25c6.chunk.css",
+    "static/js/2.98298301.chunk.js",
+    "static/css/main.1eb0a928.chunk.css",
+    "static/js/main.ddc8c1d6.chunk.js"
+  ]
+}
