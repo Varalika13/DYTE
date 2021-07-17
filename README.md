@@ -20,13 +20,13 @@ Deployed on Gitpages at - https://varalika13.github.io/DYTE/index.html
       c. A “live view” section to show the rendered HTML website.
       
  ### How it works?
-  a. Clicking on a file from the “file explorer” displays the corresponding content on
+  1. Clicking on a file from the “file explorer” displays the corresponding content on
      the code editor for editing.
-  b. The “live view” section displays the rendered website that was created by the
+  2. The “live view” section displays the rendered website that was created by the
      user. When a change is made to any of the index.html, index.css, or index.js files,
      the “live view” section hot-reloads and displays the new output.
-  c. The codes written in the editor are also downloadable using the "DOWNLOAD HTML" , "DOWNLOAD CSS" and "DOWNLOAD JS" buttons 
-     and are downloaded as 'index.html' , 'index.css'        and 'index.js' respectively.
+  3. The codes written in the editor are also downloadable using the "DOWNLOAD HTML", "DOWNLOAD CSS" and "DOWNLOAD JS" buttons 
+     and are downloaded as 'index.html' , 'index.css' and 'index.js' respectively.
   
   
 The project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
