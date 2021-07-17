@@ -28,6 +28,7 @@ Deployed on Gitpages at - https://varalika13.github.io/DYTE/index.html
   3. The codes written in the editor are also downloadable using the "DOWNLOAD HTML", "DOWNLOAD CSS" and "DOWNLOAD JS" buttons 
      and are downloaded as 'index.html' , 'index.css' and 'index.js' respectively.
   
+  <br> <br> <hr> <hr> <br> <br>
   
 The project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
