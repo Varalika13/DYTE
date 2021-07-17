@@ -1,8 +1,11 @@
-# AN ONLINE CODE EDITOR USING REACT
+## AN ONLINE CODE EDITOR USING REACT
 ### Deployed on Gitpages at - https://varalika13.github.io/DYTE/index.html
 
+### INDEX.HTML
+
+
 ### DEMO VIDEO
- https://user-images.githubusercontent.com/66907425/126034635-58759f88-61bc-473c-933f-aee3d40e195d.mp4
+ https://user-images.githubusercontent.com/66907425/126034735-ed989817-53c3-4738-9484-023975ee3cff.mp4
 
 
 
