@@ -2,7 +2,7 @@
 
 
 
-# DEPLOYED ON GITPAGES AT - https://varalika13.github.io/DYTE/index.html
+### DEPLOYED ON GITPAGES AT - https://varalika13.github.io/DYTE/index.html
 
 
 
@@ -13,9 +13,9 @@
       
  ### How it works?
   1. Clicking on a file from the “file explorer” displays the corresponding content on
-the code editor for editing.
+     the code editor for editing.
   2. The “live view” section displays the rendered website that was created by the
-user. When a change is made to any of the index.html, index.css, or index.js files,
-the “live view” section hot-reloads and displays the new output.
-  3. The codes written in the editor are also downloadable using the "DOWNLOAD HTML" , "DOWNLOAD CSS" and "DOWNLOAD JS" buttons and are downloaded as 'index.html' , 'index.css' and 'index.js' respectively.
+     user. When a change is made to any of the index.html, index.css, or index.js files,
+     the “live view” section hot-reloads and displays the new output.
+  3. The codes written in the editor are also downloadable using the "DOWNLOAD HTML" , "DOWNLOAD CSS" and "DOWNLOAD JS" buttons and are downloaded as 'index.html' , 'index.css'      and 'index.js' respectively.
   
