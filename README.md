@@ -2,8 +2,6 @@
 Deployed on Gitpages at - https://varalika13.github.io/DYTE/index.html
 
 ### INDEX.HTML
-<img width="949" alt="DYTETASK1" src="https://user-images.githubusercontent.com/66907425/126034783-9e6da4c9-c1f1-433d-8947-7d6257f65142.PNG">
-<hr>
 <img width="947" alt="DYTE2" src="https://user-images.githubusercontent.com/66907425/126041880-ba398dfc-693b-456f-bb79-1a3930e7a863.PNG">
 
 
