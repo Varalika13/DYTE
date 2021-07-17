@@ -2,7 +2,7 @@
   "name": "dyteapp",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://varalika13.github.io/DYTE",
+  "homepage": "http://Varalika13.github.io/DYTE",
   "dependencies": {
     "@fortawesome/fontawesome-common-types": "^0.2.35",
     "@fortawesome/fontawesome-svg-core": "^1.2.35",
